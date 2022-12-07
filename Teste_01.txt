@@ -1,3 +1,5 @@
 Olá para todos
 
 Testaaaannnnndddddoooooo!
+
+Funcionou na pasta clone
